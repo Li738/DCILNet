@@ -10,7 +10,7 @@ Change detection data set with pixel-level binary labels；
 ├─A
 ├─B
 ├─label
-└─list
+├─list
 
 A: images of t1 phase(L);
 
