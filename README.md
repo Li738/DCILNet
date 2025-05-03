@@ -30,11 +30,18 @@ If you use this code for your research, please cite our paper:
 
 @ARTICLE{10816435,
   author={Li, Jinghui and Shao, Feng and Meng, Xiangchao and Yang, Zhiwei},
+  
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  
   title={Dual-Branch Cross-Resolution Interaction Learning Network for Change Detection at Different Resolutions}, 
+  
   year={2025},
+  
   volume={63},
+  
   number={},
+  
   pages={1-16},
+  
   doi={10.1109/TGRS.2024.3523097}
 }
