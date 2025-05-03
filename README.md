@@ -5,12 +5,11 @@ The models mm3, mm4, and mm8 correspond to 3x, 4x, and 8x resolution difference 
 
 
 ### Data structure
-"""
 Change detection data set with pixel-level binary labels；
 ├─A
 ├─B
 ├─label
-├─list
+└─list
 
 A: images of t1 phase(L);
 
